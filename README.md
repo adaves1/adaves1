@@ -13,7 +13,7 @@
 - 📓 Notes on the above information: Yes, I know that I may have learned way too many languages but they are worth 3 years.
   
 
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaves1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <!---
 Kuagweer/Kuagweer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
