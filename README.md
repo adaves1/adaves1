@@ -28,7 +28,7 @@ GPU 1: [NVIDIA RTX 4060 Ti](https://marketplace.nvidia.com/en-us/consumer/graphi
 
 GPU 2: [NVIDIA RTX 4060 Ti](https://marketplace.nvidia.com/en-us/consumer/graphics-cards/?locale=en-us&page=1&limit=12&gpu=RTX%204060%20Ti&gpu_filter=RTX%204070%20Ti%20SUPER~1,RTX%204070%20Ti~2,RTX%204070%20SUPER~4,RTX%204060%20Ti~1,RTX%204060~7,RTX%203050~2)
 
-# Development Environment
+### Development Environment
 
 Editor 1: [Visual Studio Code](https://code.visualstudio.com/)
 
