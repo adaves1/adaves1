@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://dev.to/adaves1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adaves1" height="30" width="40" /></a>
 <a href="https://twitter.com/adaves1_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adaves1_dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/king_of_hell_zoro_d_lost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="king_of_hell_zoro_d_lost" height="30" width="40" /></a>
+<a href="https://www.youtube.com/king_of_hell_zoro_d_lost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="king_of_hell_zoro_d_lost" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adaves1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adaves1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adaves_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adaves_dev" height="30" width="40" /></a>
 </p>
