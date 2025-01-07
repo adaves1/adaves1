@@ -43,6 +43,14 @@
 <p align="center"><strong>Python, Lua</strong></p>
 <p align="center"><strong>HTML, CSS, JS</strong></p>
 <p align="center"><strong>Vue.js, Verly.js, Next.js, React, Typescript, Reactnative</strong></p>
+<br>
+<h4 align="center"><i>Tools</i></h4>
+<br>
+<br>
+<p align="center"><strong>VSCode</strong></p>
+<p align="center"><strong>VSCodium</strong></p>
+<p align="center"><strong>gVim</strong></p>
+<p align="center"><strong>Notepad++</strong></p>
 
 ---
 
