@@ -59,6 +59,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adaves1&" alt="adaves1" /></p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3200&pause=500&color=00B0F7&center=true&vCenter=true&width=435&lines=Improving+my+coding+skills)](https://git.io/typing-svg)
+
 <!---
 Kuagweer/Kuagweer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
