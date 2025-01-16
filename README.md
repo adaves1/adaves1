@@ -42,7 +42,7 @@
 <p align="center"><strong>Java, Kotlin, Go</strong></p>
 <p align="center"><strong>Python, Lua</strong></p>
 <p align="center"><strong>HTML, CSS, JS</strong></p>
-<p align="center"><strong>Vue.js, Verly.js, Next.js, React, Typescript, Reactnative</strong></p>
+<p align="center"><strong>Vue.js, Verly.js, Next.js, Typescript, Reactnative</strong></p>
 <br>
 <h4 align="center"><i>Tools</i></h4>
 <br>
