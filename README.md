@@ -16,11 +16,11 @@
 
 - 🤝 I’m looking for help with [WinTweak](https://github.com/adaves1/WinTweak)
 
-- 💬 Ask me about **react, vue, java**
+- 💬 Ask me about **React, Vue, Java**
 
-- 📫 How to reach me **adaves1@yahoo.com**
+- 📫 How to reach me: **adaves1@yahoo.com**
 
-- ⚡ Fun fact **I love pets**
+- ⚡ Fun fact: **I love pets**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
